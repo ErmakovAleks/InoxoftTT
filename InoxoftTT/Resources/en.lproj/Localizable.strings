@@ -1,0 +1,47 @@
+/* Localizable.strings
+   InoxoftTT */
+
+// MARK: -
+// MARK: Common
+
+"ok" = "OK";
+"error" = "Error";
+"success" = "Success";
+"loading" = "Loading...";
+"retry" = "Retry";
+
+// MARK: - Post List
+
+"reddit_popular" = "Reddit Popular";
+"search" = "Search";
+"search_posts" = "Search posts...";
+"search_for_posts" = "Search for posts";
+"no_posts_available" = "No posts available";
+
+// MARK: -
+// MARK: Post Detail
+
+"post_details" = "Post Details";
+"save_image" = "Save Image";
+"downloading" = "Downloading...";
+"open_in_reddit" = "Open in Reddit";
+"image_saved" = "Image saved to photo library";
+"comments" = "comments";
+
+// MARK: -
+// MARK: iPad Placeholder
+
+"select_a_post" = "Select a Post";
+"choose_post_details" = "Choose a post from the list to view its details";
+
+// MARK: -
+// MARK: Content Badges
+
+"image" = "Image";
+"text" = "Text";
+
+// MARK: -
+// MARK: Errors
+
+"failed_download_image" = "Failed to download image: %@";
+"failed_save_image" = "Failed to save image: %@";

@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-InoxoftTT/Pods-InoxoftTT-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/Alamofire/Alamofire.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Kingfisher/Kingfisher.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Realm/realm_objc_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/RealmSwift/realm_swift_privacy.bundle
